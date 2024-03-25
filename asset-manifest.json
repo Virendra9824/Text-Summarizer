@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text-Summarizer-App/static/css/main.44eca44a.css",
+    "main.js": "/Text-Summarizer-App/static/js/main.1c6aea75.js",
+    "static/js/787.3b8da687.chunk.js": "/Text-Summarizer-App/static/js/787.3b8da687.chunk.js",
+    "index.html": "/Text-Summarizer-App/index.html",
+    "main.44eca44a.css.map": "/Text-Summarizer-App/static/css/main.44eca44a.css.map",
+    "main.1c6aea75.js.map": "/Text-Summarizer-App/static/js/main.1c6aea75.js.map",
+    "787.3b8da687.chunk.js.map": "/Text-Summarizer-App/static/js/787.3b8da687.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44eca44a.css",
+    "static/js/main.1c6aea75.js"
+  ]
+}
