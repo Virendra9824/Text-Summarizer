@@ -2,7 +2,7 @@
 
 Welcome to our AI Text Summarizer! Harnessing the power of Artificial Intelligence, we provide quick and efficient text summarization services. Whether it's a lengthy article or a research paper, our tool simplifies content for easier understanding.
 
-## Screenshots
+## Thumbnail
 
 ![Screenshot 1](https://github.com/Virendra9824/Text-Summarizer-App/blob/main/thumbnail.png)
 
