@@ -42,7 +42,7 @@ export default function App() {
         setShouldCopy(false);
       })
       .catch((error) => {
-        console.log(error);
+        console.log("Error in Axios ISS: ", error);
       });
   };
 
